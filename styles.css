@@ -1,0 +1,418 @@
+.header-style{
+width: 1440px;
+height: 120px;
+background: rgb(48, 51, 61);
+border-radius: 0px;
+}
+
+.image-section{
+	padding-left: 20px;
+	padding-top:  20px;
+  width: 90px;
+  height: 90px;
+  
+}
+ul {
+	display: inline-block;
+}
+
+.bodybackground{
+background-color:rgb(247,247,247);	
+}
+
+.heading{
+color: rgb(53, 64, 82);
+font-family: Heebo-Regular;
+font-size: 40px;
+font-weight: normal;
+height: 50px;
+line-height: 50px;
+width: 1072px;
+}
+.header-text{
+width: 288px;
+height: 35px;
+color: rgb(255, 255, 255);
+font-size: 24px;
+font-family: Heebo-Regular;
+font-weight: normal;
+}
+.header-subhead
+{
+width: 181px;
+height: 22px;
+color: rgb(255, 255, 255);
+font-size: 16px;
+font-family: Heebo-Regular;
+font-weight: normal;
+line-height: 22px;
+}
+.lefty{
+	margin-left: 100px;
+}
+.item-text{
+	width: 78px;
+height: 22px;
+color: rgb(255, 255, 255);
+font-size: 16px;
+font-family: Heebo-Medium;
+font-weight: 500;
+text-align: center;
+line-height: 22px;
+}
+.alcoholpic{
+width: 90px;
+height: 90px;
+border-radius: 45px;
+}
+.warning-text{
+width: 843px;
+height: 22px;
+color: rgb(53, 64, 82);
+font-size: 16px;
+font-family: Heebo-Regular;
+font-weight: normal;
+line-height: 22px;
+}
+.description{
+color: rgb(127, 143, 164);
+font-family: Heebo-Regular;
+font-size: 16px;
+font-weight: normal;
+height: 22px;
+line-height: 22px;
+width: 800px;
+}
+
+.button-style{
+width: 400px;
+height: 22px;
+color: rgb(255, 255, 255);
+font-size: 16px;
+font-family: Heebo-Regular;
+font-weight: normal;
+text-align: center;
+line-height: 22px;
+}
+.button-text{
+background: linear-gradient(-180deg, rgb(13, 60, 200) 0%, rgb(4, 41, 181) 100%);
+border-radius: 0px;
+border: 1px solid rgba(0, 0, 0, 0.1);
+height: 36px;
+width: 307px;
+}
+.tabbox{
+	width: 175px;
+height: 42px;
+}
+.item-row{
+	display: inline-block;
+}
+.lefty{
+	float: left;
+}
+.app-text{
+color: rgb(69, 79, 87);
+font-family: Heebo-bold;
+font-size: 16px;
+font-weight: bold;
+height: 22px;
+line-height: 22px;
+text-align: center;
+width: 131px;
+padding-bottom: 2px;
+	}
+.licence-text{
+color: rgb(127, 143, 164);
+font-family: Heebo-Regular;
+font-size: 16px;
+font-weight: normal;
+height: 22px;
+line-height: 22px;
+text-align: center;
+width: 96px;
+
+}
+.warningbutton{
+width: 80px;
+height: 50px;
+color: rgb(13, 60, 200);
+font-size: 16px;
+font-family: Heebo-Regular;
+font-weight: normal;
+text-align: center;
+vertical-align: center;
+line-height: 22px;
+
+}
+.buttonstyle{
+width: 200px;
+height: 36px;
+border-radius: 0px;
+}
+
+.left-pad{
+	margin-left: 100px;
+	margin-right: 100px;
+}
+.item-pad{
+
+	margin-left: 60px;
+	
+}
+.footer-pad{
+
+	margin-left: 40px;
+	
+}
+.margintop{
+	margin-top: 0px;
+}
+.item-margin_right{
+	margin-right: 100px;
+}
+.desc-text{
+	margin-top: 5px;
+width: 392px;
+height: 35px;
+color: rgb(13, 60, 200);
+font-size: 24px;
+font-family: Heebo-Regular;
+font-weight: normal;
+}
+
+.inbox-text{
+
+height: 22px;
+color: rgb(53, 64, 82);
+font-size: 16px;
+font-family: Heebo-Regular;
+font-weight: normal;
+line-height: 22px;
+}
+.inbox-head{
+height: 22px;
+color: rgb(13, 60, 200);
+font-size: 16px;
+font-family: Heebo-Regular;
+font-weight: normal;
+line-height: 22px;
+}
+.toppadding{
+	padding-top: 5px;
+
+}
+.toppaddingheader{
+	padding-top: 8px;
+
+}
+.margintop{
+padding-top: 30px;
+}
+.header-container{
+background: rgb(48, 51, 61);
+border-radius: 0px;
+height: 120px;
+width: 1518px;
+
+}
+
+.cardsubtext{
+padding-right: 20px;
+width: 163px;
+height: 22px;
+color: rgb(248, 83, 89);
+font-size: 16px;
+font-family: Heebo-Regular;
+font-weight: normal;
+line-height: 22px;
+}
+.padtop{
+	padding-top: 5px;
+}
+ .warningbar{
+position: sticky;
+background: rgb(247, 152, 28);
+border-radius: 0px;
+height: 82px;
+width: 1518px;
+}
+.sticky {
+  position: sticky;
+  top: 0;
+  width: 100%;
+}
+body{
+
+background: rgb(247, 152, 28);
+border-radius: 0px;
+height: 82px;
+width: 1518px;
+}
+.container{
+	padding-top: 10px;
+	height: 90px;
+	border-left: 12px solid rgb(248, 83, 89);
+
+
+background: rgb(255, 255, 255);
+box-shadow: 2px 2px 20px 5px rgba(13, 60, 200, 0.05);
+border-radius: 0px;
+}
+.updatestyle
+{
+width: 200px;
+height: 36px;
+background: rgb(71, 158, 235);
+border-radius: 0px;
+}
+.updatetextstyle{
+width: 53px;
+height: 22px;
+color: rgb(255, 255, 255);
+font-size: 16px;
+font-family: Heebo-Regular;
+font-weight: normal;
+text-align: center;
+line-height: 22px;
+}
+.container2{
+	
+	border-left: 12px solid rgb(247, 152, 28);
+	height: 90px;
+
+	padding-top: 10px;
+	
+
+
+background: rgb(255, 255, 255);
+box-shadow: 2px 2px 20px 5px rgba(13, 60, 200, 0.05);
+border-radius: 0px;
+}
+
+.temptextstyle{
+	width: 182px;
+height: 18px;
+color: rgb(127, 143, 164);
+font-size: 12px;
+font-family: Heebo-Regular;
+font-weight: normal;
+text-align: right;
+letter-spacing: 0.55px;
+}
+.footer-container{
+	width: 1518px;
+height: 40px;
+background: rgb(48, 51, 61);
+border-radius: 0px;
+}
+.footer-text{
+	padding-top: 5px;
+	width: 264px;
+height: 18px;
+color: rgb(255, 255, 255);
+font-size: 12px;
+font-family: Heebo-Regular;
+font-weight: normal;
+letter-spacing: 0.55px;
+}
+
+.card2subtext{
+	padding-left: 14px;
+width: 163px;
+height: 24px;
+color: rgb(247, 152, 28);
+font-size: 16px;
+font-family: Heebo-Regular;
+font-weight: normal;
+text-align: right;
+
+}
+.button2style{
+width: 200px;
+height: 36px;
+background: rgb(255, 255, 255);
+border: 1px solid rgb(13, 60, 200);
+border-radius: 0px;
+}
+.button2text{
+width: 71px;
+height: 22px;
+color: rgb(13, 60, 200);
+font-size: 16px;
+font-family: Heebo-Regular;
+font-weight: normal;
+text-align: center;
+line-height: 22px;
+}
+.container4{
+
+	height: 211px;
+
+	padding-top: 10px;
+	
+
+
+background: rgb(255, 255, 255);
+box-shadow: 2px 2px 20px 5px rgba(13, 60, 200, 0.05);
+border-radius: 0px;
+}
+.tablestyle{
+	width: 1177px;
+height: 50px;
+background: rgba(13, 60, 200, 0.05);
+border-radius: 0px;
+}
+.table2{
+border: 1px solid rgb(211, 219, 245);
+margin:25px;
+width: 1275px;
+}
+
+.tableheadstyle{
+
+height: 18px;
+color: rgb(53, 64, 82);
+font-size: 12px;
+font-family: Heebo-Medium;
+font-weight: 500;
+letter-spacing: 0.55px;
+}
+.tablerowstyle{
+width: 305px;
+height: 22px;
+color: rgb(53, 64, 82);
+font-size: 16px;
+font-family: Heebo-Regular;
+font-weight: normal;
+line-height: 22px;
+}
+
+
+.tablerow3style{
+
+	width: 127px;
+height: 18px;
+color: rgb(127, 143, 164);
+font-size: 12px;
+font-family: Heebo-Regular;
+font-weight: normal;
+letter-spacing: 0.55px;
+}
+
+.leftmarginrow{
+margin-left: 400px;
+padding-left: 180px;
+}
+
+.numbertext{
+	padding-right: 20px;
+width: 240px;
+height: 22px;
+color: rgb(53, 64, 82);
+font-size: 16px;
+font-family: Heebo-Bold;
+font-weight: bold;
+text-align: right;
+line-height: 22px;
+}
